@@ -1,2 +1,6 @@
 brother
 sister
+
+uncle 
+hello
+namastey
